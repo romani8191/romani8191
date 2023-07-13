@@ -2,7 +2,10 @@
 
 
 <h1 align="center">Hi 👋, I'm Romani</h1>
+<h3 align="center">An adventurer just like Mario ☜(ﾟヮﾟ☜)</h3>
+<h3 align="center">and</h3>
 <h3 align="center">A tech enthuse from India ╰(*°▽°*)╯</h3>
+
 
 <img src="https://i.pinimg.com/originals/b3/13/4e/b3134e2f8324d0ff446d3aeecf4653c0.gif" width="400" align="right">
 
